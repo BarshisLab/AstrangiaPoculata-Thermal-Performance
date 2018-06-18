@@ -1,0 +1,2 @@
+Date/dd:mm:yy;Time/hh:mm:ss;Logtime/min;Oxy/% air sat.;Phase/°;Amp;Temp/°C
+% air-sat.	% oxygen	pO2 (hPa)	pO2 (Torr)	cO2 [mg/L]	cO2 [µmol/L]	Salinity	chlorinity	SalCorcO2 [mg/L]	SalCorcO2 [µmol/L]
