@@ -2,7 +2,7 @@
 #Author: HM Putnam, updated by Hannah Aichelman to analyze the data for the Astrangia respirometry experiments
 # original script found at the following page: https://github.com/hputnam/Mcap_PGA_TGA/blob/master/RAnalysis/Scripts/Respirometry.R
 #Date Last Modified: October 2017
-#See Readme file for details
+#See Readme file for details (on H Putnam github page)
 
 rm(list=ls()) #clears workspace 
 
