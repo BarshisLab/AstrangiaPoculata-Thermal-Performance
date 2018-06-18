@@ -1,0 +1,45 @@
+19.07.17/2:01 PM SW ver:OXY10v3_33
+Header Ch-4
+Description: TWM4-29
+IDENTIFICATION
+PHIboard number   : v1231476
+PM number         : 00000000
+Serial number     : S DLK 0001 000022   
+MUX channel       : ON - 04
+
+PARAMETERS
+Signal LED current: 050
+Ref LED current   : 076
+Ref LED amplitude : 98375
+Frequency         : 006
+Sending interval  : 0001
+Averaging         : 2
+Internal temp     : 20.0 C
+
+SYSTEM SETTINGS
+APL function      : ON
+Temp compensation : OFF
+Analog out        : OFF
+RS232 echo        : OFF
+Oxygen unit       : %a.s.
+
+CALIBRATION
+Sensor type       : 2
+0%a.s.phase 1     : 60.62 at 020.0°C amp 049700
+100.00%a.s.phase 2: 27.68 at 020.0°C amp 031000
+Date   (ddmmyy)   : 270313
+Pressure (mBar)   : 1013
+
+FIRMWARE
+Code 3.016 (IAP)  : 08/20/04, 09:50:56
+Xilinx built      : 01/05/04 (MM/DD/YY)
+
+Pressure [hPa]: 1013
+Date/dd:mm:yy;Time/hh:mm:ss;Logtime/min;Oxy/% air sat.;Phase/°;Amp;Temp/°C
+19.07.17;2:01:02 PM;0.00;94.650;26.680;30184.000;29.000
+19.07.17;2:01:16 PM;0.25;94.370;26.710;30158.000;29.000
+19.07.17;2:01:31 PM;0.50;94.680;26.680;30175.000;29.000
+19.07.17;2:01:46 PM;0.75;94.780;26.670;30174.000;29.000
+19.07.17;2:02:01 PM;1.00;94.510;26.700;30174.000;29.000
+19.07.17;2:02:16 PM;1.25;94.370;26.710;30177.000;29.000
+19.07.17;2:02:31 PM;1.50;94.770;26.670;30146.000;29.000

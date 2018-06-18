@@ -1,0 +1,45 @@
+19.07.17/2:00 PM SW ver:OXY10v3_33
+Header Ch-2
+Description: DRIFT-29
+IDENTIFICATION
+PHIboard number   : v1231474
+PM number         : 00000000
+Serial number     : S DLK 0001 000022   
+MUX channel       : ON - 02
+
+PARAMETERS
+Signal LED current: 050
+Ref LED current   : 075
+Ref LED amplitude : 101323
+Frequency         : 006
+Sending interval  : 0001
+Averaging         : 2
+Internal temp     : 20.0 C
+
+SYSTEM SETTINGS
+APL function      : ON
+Temp compensation : OFF
+Analog out        : OFF
+RS232 echo        : OFF
+Oxygen unit       : %a.s.
+
+CALIBRATION
+Sensor type       : 2
+0%a.s.phase 1     : 60.62 at 020.0°C amp 029100
+100.00%a.s.phase 2: 27.68 at 020.0°C amp 029400
+Date   (ddmmyy)   : 270313
+Pressure (mBar)   : 1013
+
+FIRMWARE
+Code 3.016 (IAP)  : 08/20/04, 09:50:56
+Xilinx built      : 01/05/04 (MM/DD/YY)
+
+Pressure [hPa]: 1013
+Date/dd:mm:yy;Time/hh:mm:ss;Logtime/min;Oxy/% air sat.;Phase/°;Amp;Temp/°C
+19.07.17;2:00:58 PM;0.00;96.560;26.470;11821.000;29.000
+19.07.17;2:01:12 PM;0.24;96.500;26.480;11826.000;29.000
+19.07.17;2:01:27 PM;0.49;96.050;26.530;11827.000;29.000
+19.07.17;2:01:42 PM;0.74;97.060;26.420;11844.000;29.000
+19.07.17;2:01:57 PM;1.00;96.730;26.460;11818.000;29.000
+19.07.17;2:02:12 PM;1.24;95.870;26.550;11816.000;29.000
+19.07.17;2:02:27 PM;1.49;96.530;26.480;11814.000;29.000

@@ -1,0 +1,46 @@
+19.07.17/2:00 PM SW ver:OXY10v3_33
+Header Ch-7
+Description: WWK1-29
+IDENTIFICATION
+PHIboard number   : v1231479
+PM number         : 00000000
+Serial number     : S DLK 0001 000022   
+MUX channel       : ON - 07
+
+PARAMETERS
+Signal LED current: 050
+Ref LED current   : 080
+Ref LED amplitude : 96457
+Frequency         : 006
+Sending interval  : 0001
+Averaging         : 2
+Internal temp     : 20.0 C
+
+SYSTEM SETTINGS
+APL function      : ON
+Temp compensation : OFF
+Analog out        : OFF
+RS232 echo        : OFF
+Oxygen unit       : %a.s.
+
+CALIBRATION
+Sensor type       : 2
+0%a.s.phase 1     : 60.62 at 020.0°C amp 040800
+100.00%a.s.phase 2: 27.68 at 020.0°C amp 027000
+Date   (ddmmyy)   : 270313
+Pressure (mBar)   : 1013
+
+FIRMWARE
+Code 3.016 (IAP)  : 08/20/04, 09:50:56
+Xilinx built      : 01/05/04 (MM/DD/YY)
+
+Pressure [hPa]: 1013
+Date/dd:mm:yy;Time/hh:mm:ss;Logtime/min;Oxy/% air sat.;Phase/°;Amp;Temp/°C
+19.07.17;2:00:59 PM;0.00;94.360;26.710;30073.000;29.000
+19.07.17;2:01:07 PM;0.14;93.760;26.780;30063.000;29.000
+19.07.17;2:01:22 PM;0.39;94.660;26.680;30039.000;29.000
+19.07.17;2:01:37 PM;0.64;94.390;26.710;30073.000;29.000
+19.07.17;2:01:52 PM;0.89;94.590;26.690;30063.000;29.000
+19.07.17;2:02:07 PM;1.14;94.760;26.670;30077.000;29.000
+19.07.17;2:02:22 PM;1.39;94.610;26.690;30088.000;29.000
+19.07.17;2:02:37 PM;1.64;94.400;26.710;30073.000;29.000

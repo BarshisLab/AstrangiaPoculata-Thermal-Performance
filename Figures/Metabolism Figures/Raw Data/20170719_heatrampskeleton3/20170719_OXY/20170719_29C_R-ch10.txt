@@ -1,0 +1,45 @@
+19.07.17/2:01 PM SW ver:OXY10v3_33
+Header Ch-10
+Description: TBF5-29
+IDENTIFICATION
+PHIboard number   : v1231482
+PM number         : 00000000
+Serial number     : S DLK 0001 000022   
+MUX channel       : ON - 10
+
+PARAMETERS
+Signal LED current: 050
+Ref LED current   : 068
+Ref LED amplitude : 100256
+Frequency         : 006
+Sending interval  : 0001
+Averaging         : 2
+Internal temp     : 20.0 C
+
+SYSTEM SETTINGS
+APL function      : ON
+Temp compensation : OFF
+Analog out        : OFF
+RS232 echo        : OFF
+Oxygen unit       : %a.s.
+
+CALIBRATION
+Sensor type       : 2
+0%a.s.phase 1     : 60.62 at 020.0°C amp 045200
+100.00%a.s.phase 2: 27.68 at 020.0°C amp 037000
+Date   (ddmmyy)   : 270313
+Pressure (mBar)   : 1013
+
+FIRMWARE
+Code 3.016 (IAP)  : 08/20/04, 09:50:56
+Xilinx built      : 01/05/04 (MM/DD/YY)
+
+Pressure [hPa]: 1013
+Date/dd:mm:yy;Time/hh:mm:ss;Logtime/min;Oxy/% air sat.;Phase/°;Amp;Temp/°C
+19.07.17;2:01:01 PM;0.00;95.480;26.590;38988.000;29.000
+19.07.17;2:01:13 PM;0.21;95.270;26.610;39004.000;29.000
+19.07.17;2:01:28 PM;0.46;95.640;26.570;39031.000;29.000
+19.07.17;2:01:43 PM;0.71;95.290;26.610;39017.000;29.000
+19.07.17;2:01:58 PM;0.96;95.620;26.580;39009.000;29.000
+19.07.17;2:02:13 PM;1.21;95.640;26.570;39043.000;29.000
+19.07.17;2:02:28 PM;1.46;95.400;26.600;39070.000;29.000
