@@ -15,4 +15,7 @@ Work Flow for Analyzing Respirometry Data
 ~/ODU_MS/ODU_MS/ExperimentalTanks/ExperimentData/Respiration_master_holobiont.csv
 ~/ODU_MS/ODU_MS/ExperimentalTanks/ExperimentData/Photosynthesis_master_holobiont.csv
 
-6. Still in Segmented_Respirometry_hollie_olitotest_cold.R, bind together corrected data and important fragment identifying data, calculate gross photosynthesis as Pnet - Rdark. Created these databases separately, they are saved as Heat_Data.csv and Cold_Data.csv
+6. Still in Segmented_Respirometry_olitotest.R, bind together corrected data and important fragment identifying data, calculate gross photosynthesis as Pnet - Rdark. Created these databases separately, they are saved as Heat_Data.csv and Cold_Data.csv
+
+7. Use Respirometry_ANOVA.R script to analyze and plot the rate data from the Segmented_Respirometry_olitotest.R. Because this script analyzes the heat and cold ramp data put together (6 - 32C), we first randomly sample the measurements made at 18C. The randomly sampled metabolic rate files are included here. 
+
