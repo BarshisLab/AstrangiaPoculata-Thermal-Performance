@@ -1,0 +1,39 @@
+11.07.17/3:18 PM SW ver:OXY10v3_33
+Header Ch-9
+Description: WWB1-32
+IDENTIFICATION
+PHIboard number   : v1231481
+PM number         : 00000000
+Serial number     : S DLK 0001 000022   
+MUX channel       : ON - 09
+
+PARAMETERS
+Signal LED current: 050
+Ref LED current   : 072
+Ref LED amplitude : 104301
+Frequency         : 006
+Sending interval  : 0001
+Averaging         : 2
+Internal temp     : 20.0 C
+
+SYSTEM SETTINGS
+APL function      : ON
+Temp compensation : OFF
+Analog out        : OFF
+RS232 echo        : OFF
+Oxygen unit       : %a.s.
+
+CALIBRATION
+Sensor type       : 2
+0%a.s.phase 1     : 60.62 at 020.0°C amp 034700
+100.00%a.s.phase 2: 27.68 at 020.0°C amp 023000
+Date   (ddmmyy)   : 270313
+Pressure (mBar)   : 1013
+
+FIRMWARE
+Code 3.016 (IAP)  : 08/20/04, 09:50:56
+Xilinx built      : 01/05/04 (MM/DD/YY)
+
+Pressure [hPa]: 1013
+Date/dd:mm:yy;Time/hh:mm:ss;Logtime/min;Oxy/% air sat.;Phase/°;Amp;Temp/°C
+11.07.17;3:18:12 PM;0.00;98.450;26.270;30672.000;29.000

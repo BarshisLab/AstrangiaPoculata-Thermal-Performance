@@ -1,0 +1,2 @@
+Chamber	Time/hh:mm:ss	Logtime/min	Oxy/% air sat.	Phase/°	Amp	Temp/°C	% air-sat.	% oxygen	pO2 (hPa)	pO2 (Torr)	cO2 [mg/L]	cO2 [µmol/L]	Salinity	chlorinity	SalCorcO2 [mg/L]	SalCorcO2 [µmol/L]
+8	15:18:09	0.00	96.200	26.510	25458.000	29.000	96.270156	20.1685976	196.208217	147.168672	7.39144979	230.982806	35	19.3739612	5.98838871	187.137147
