@@ -1,0 +1,49 @@
+16.07.17/9:05 AM SW ver:OXY10v3_33
+Header Ch-4
+Description: WWF1-18
+IDENTIFICATION
+PHIboard number   : v1231476
+PM number         : 00000000
+Serial number     : S DLK 0001 000022   
+MUX channel       : ON - 04
+
+PARAMETERS
+Signal LED current: 050
+Ref LED current   : 076
+Ref LED amplitude : 97385
+Frequency         : 006
+Sending interval  : 0001
+Averaging         : 2
+Internal temp     : 20.0 C
+
+SYSTEM SETTINGS
+APL function      : ON
+Temp compensation : OFF
+Analog out        : OFF
+RS232 echo        : OFF
+Oxygen unit       : %a.s.
+
+CALIBRATION
+Sensor type       : 2
+0%a.s.phase 1     : 60.62 at 020.0°C amp 049700
+100.00%a.s.phase 2: 27.68 at 020.0°C amp 031000
+Date   (ddmmyy)   : 270313
+Pressure (mBar)   : 1013
+
+FIRMWARE
+Code 3.016 (IAP)  : 08/20/04, 09:50:56
+Xilinx built      : 01/05/04 (MM/DD/YY)
+
+Pressure [hPa]: 1013
+Date/dd:mm:yy;Time/hh:mm:ss;Logtime/min;Oxy/% air sat.;Phase/°;Amp;Temp/°C
+16.07.17;9:05:26 AM;0.00;94.970;28.600;34991.000;18.000
+16.07.17;9:05:27 AM;0.02;94.770;28.630;34975.000;18.000
+16.07.17;9:05:28 AM;0.04;94.600;28.650;34965.000;18.000
+16.07.17;9:05:42 AM;0.26;94.540;28.650;35000.000;18.000
+16.07.17;9:05:57 AM;0.51;94.920;28.610;34979.000;18.000
+16.07.17;9:06:12 AM;0.76;94.670;28.640;34971.000;18.000
+16.07.17;9:06:27 AM;1.01;94.320;28.680;34993.000;18.000
+16.07.17;9:06:42 AM;1.26;94.820;28.620;34966.000;18.000
+16.07.17;9:06:57 AM;1.51;94.640;28.640;34954.000;18.000
+16.07.17;9:07:12 AM;1.76;94.850;28.620;34685.000;18.000
+16.07.17;9:07:27 AM;2.01;95.040;28.590;34954.000;18.000
