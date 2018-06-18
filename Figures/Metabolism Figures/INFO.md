@@ -9,7 +9,7 @@ Work Flow for Analyzing Respirometry Data
 
 3. The photosynthesis and respiration files are separated and added to their own files inside a folder called /RAnalysis/. I use cp at the command line to move the _cleaned files over only
 
-4. Run Segmented_Respirometry_hollie_olitotest_cold.R or Segmented_Respirometry_hollie_olitotest_heat.Rscript based on whether you are analyzing a cold or heat ramp data. The only thing that is changing is the names of variables based on temperature. This Olito script produces corrected photosynthesis and respiration rates (corrected for time and surface area of fragment) and writes out the photosynthesis and respiration data to separate .csv files
+4. Run Segmented_Respirometry_olitotest.R, some parts of code will have to be changed depending whether you are analyzing a cold or heat ramp experiment. The only thing that is changing is the names of variables based on temperature. This Olito script produces corrected photosynthesis and respiration rates (corrected for time and surface area of fragment) and writes out the photosynthesis and respiration data to separate .csv files
 
 5. Copied and pasted all individual ramp days into a master data sheet called: 
 ~/ODU_MS/ODU_MS/ExperimentalTanks/ExperimentData/Respiration_master_holobiont.csv
