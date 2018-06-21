@@ -4,4 +4,4 @@
 
 -Data was analyzed and plotted using the FvFm_analysis_18Chold.R script
 
--Note: See (add actual page here) for raw data and scripts to produce Figure S4A (Astrangia poculata skeleton Fv/Fm). The same page includes all info for analyzing Astrangia poculata holobiont Fv/Fm. 
+-Note: See https://github.com/BarshisLab/AstrangiaPoculata-Thermal-Performance/tree/master/Figures/Fv_Fm%20Figures for raw data and scripts to produce Figure S4A (Astrangia poculata skeleton Fv/Fm). The same page includes all info for analyzing Astrangia poculata holobiont Fv/Fm. 
