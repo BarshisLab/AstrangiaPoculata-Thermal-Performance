@@ -5,6 +5,6 @@ https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhs/oldversions/version1.2/
 
 -The Figure1_map.R was used to create both the inset and zoomed in maps included in Figure 1. This .R script was adapted from an original script written by JP Rippe (jpr6mg@gmail.com).
 
--The coordinates.txt file includes coordinates for the two collection sites (needed in Figure1_map.R).
+-The GPSCoordinates.csv file included in this folder contains coordinates for the two collection sites (VA and RI; needed in Figure1_map.R).
 
 
