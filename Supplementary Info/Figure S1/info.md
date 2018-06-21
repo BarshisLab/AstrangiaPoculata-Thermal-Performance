@@ -1,8 +1,10 @@
 # Info on creating Figure S1 
--Plots temperature recorded by hobo loggers over all 16 of the thermal ramp experiments by group (heat holobiont, cold holobiont, heat skeleton and cold skeleton)
+-Fig S1 is a plot of the temperature recorded by hobo loggers during all 16 thermal ramp experiments by group (heat holobiont, cold holobiont, heat skeleton and cold skeleton).
 
--First, use hobocleaner.py script to clean the raw hobo logger files and trim the files to only include the times during which an experiment was being run
+-First, use hobocleaner.py script to clean the raw hobo logger files (.txt). 
 
--Next, organize all cleaned.txt files by type of ramp experiment
+-Then, trim the cleaned files to only include the times during which an experiment was being run.
 
--Now, can use the .R script to plot all temperature data by category of ramp. 
+-Next, organize all cleaned.txt files by type of ramp experiment.
+
+-Now, can use the .R script to plot all temperature data by category of ramp and R/Illustrator to combine all plots into the figure. 
