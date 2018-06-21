@@ -2,4 +2,6 @@
 
 -All data included in 20161220_PAM_cleaned.csv
 
--Note: See Figures/FvFm_Figures for raw data and scripts to analyze the holobiont and skeleton Fv/Fm data
+-Data was analyzed and plotted using the .R script
+
+-Note: See (add actual page here) for raw data and scripts to produce Figure S4A (Astrangia poculata skeleton Fv/Fm). The same page includes all info for analyzing Astrangia poculata holobiont Fv/Fm. 
