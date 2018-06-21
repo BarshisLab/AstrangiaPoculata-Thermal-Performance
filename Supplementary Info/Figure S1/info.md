@@ -7,4 +7,4 @@
 
 -Next, organize all cleaned.txt files by type of ramp experiment.
 
--Now, can use the .R script to plot all temperature data by category of ramp and R/Illustrator to combine all plots into the figure. 
+-Now, can use the FigS1_PlotRampHoboLoggers.R script to plot all temperature data by category of ramp and R/Illustrator to combine all plots into the figure. 
